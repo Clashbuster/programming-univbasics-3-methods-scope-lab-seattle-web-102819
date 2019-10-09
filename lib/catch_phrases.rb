@@ -14,6 +14,6 @@ def any_phrase(phrase)
 end
 
 def link(phrase)
-  phrase = "it's Dangerous To go alone! Take this."
+  phrase = "It's Dangerous To go alone! Take This."
   puts phrase
 end
